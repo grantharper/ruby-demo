@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This demo repository is based entirely on the tutorial found at the following site: 
+http://guides.rubyonrails.org/getting_started.html
 
-Things you may want to cover:
+To run the application:
+1) Ensure you have ruby and rails installed
+2) Clone the repository
+3) From the root directory, run the following commands: 
+   bin/rails db:migrate
+   bin/rails server
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
